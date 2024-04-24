@@ -1,33 +1,19 @@
 ### Functional-programming repository
 ___
 
-The repository was created for training purposes.  
-Presented code has been written during practicing a declarative approach.   
-The code includes both implementations provided by the course author, as well as my own. In addition, I added an additional utility class.  
+The repository was created for training purposes, to refresh the acquired knowledge.
+I wrote the code in relation to a content provided in Udemy course, but there is also some of my implementation.
 
 As a base for it I used the following Udemy course
 > *Udemy course title :*  **Learn Functional Programming in Java with Lambdas and Streams**   
 > *created by* **in28minutes**    
 > [Link to the course](https://www.udemy.com/course/functional-programming-with-java "Nice content for a start.")
-
-
-
-
-
-
 ___
-#### My thoughts about it :
-If ou only know a "standard", imperative style of coding, the functional programming changes the way of thinking about programming itself.   
-And you need to get to used to it.  
-This is even more abstract way of coding, that in the appropriate scenarios, among others, can provide a way more readable, less verbose code.  
-Using the declarative approach you tell what you need to be done, not how to do it.
-___
-
-#### What did I learn ?
+#### My thoughts :
 - there are two coding approaches in Java : an imperative and a declarative
-- the declarative approach changes the way developers think about coding itself
-- the functional programming is even more abstract way of coding, that in the appropriate scenarios, among others, can provide a way more readable, less verbose code.
-- using the declarative approach you tell what you need to be done, not how to do it.
+- the declarative approach changes the way the Java developers think about coding itself
+- on the one hand, the functional programming is even more abstract, and on the other hand, in the appropriate scenarios, can provide a way more readable, less verbose code.
+- using the declarative approach you tell what need to be done, not how to do it.
 ___
 
 
@@ -62,5 +48,5 @@ A note.
 I used the chat GPT 3.5 to create this markdown readme file.
 AI mainly helped me with :
 - markdown syntax 
-- extracting a needed content from my source code.
+- extracting needed content from my source code.
 ~~~
