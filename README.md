@@ -1,23 +1,25 @@
-### Functional-programming repository
-___
+#### Table of Contents
 
-The repository was created for training purposes, to refresh the acquired knowledge.
-I wrote the code in relation to a content provided in Udemy course, but there is also some of my implementation.
+1. [one](#one)
+2. [two](#two)
+3. [three](#three)
+4. [four](#four)
 
-As a base for it I used the following Udemy course
-> *Udemy course title :*  **Learn Functional Programming in Java with Lambdas and Streams**   
-> *created by* **in28minutes**    
-> [Link to the course](https://www.udemy.com/course/functional-programming-with-java "Nice content for a start.")
+### one
+
+>*Udemy course title :*  [**Learn Functional Programming in Java with Lambdas and Streams** ](https://www.udemy.com/course/functional-programming-with-java "Nice content for a start.")  
+*created by* **in28minutes**
 ___
-#### My thoughts :
+#### two
 - there are two coding approaches in Java : an imperative and a declarative
 - the declarative approach changes the way the Java developers think about coding itself
-- on the one hand, the functional programming is even more abstract, and on the other hand, in the appropriate scenarios, can provide a way more readable, less verbose code.
+- on the one hand, functional programming is even more abstract, and on the other hand, in appropriate scenarios, it can provide much more readable, less verbose code.
 - using the declarative approach you tell what need to be done, not how to do it.
+
 ___
 
 
-#### Commits 
+#### three
 | No. | Title                                                                                                 | Timestamp            |
 |-----|-------------------------------------------------------------------------------------------------------|----------------------|
 | 1   | Initial commit                                                                                        | 1/23/2024 10:03 PM  |
@@ -50,3 +52,54 @@ AI mainly helped me with :
 - markdown syntax 
 - extracting needed content from my source code.
 ~~~
+
+#### four
+___
+| Advantage                                     | Description                                                                                           |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Declarative Style                            | Focuses on what to accomplish rather than how to accomplish it, improving readability and maintainability. |
+| Lazy Evaluation                              | Processes elements only when needed, improving performance by avoiding unnecessary computations.        |
+| Parallelism                                  | Easily processed in parallel, leveraging multi-core architectures for improved performance.           |
+| Intermediate and Terminal Operations         | Divides operations into lazy intermediate operations and terminal operations for processing elements. |
+| Function Composition                         | Facilitates function composition and enables writing concise and expressive code.                       |
+| Support for Functional Interfaces           | Leverages functional interfaces and lambda expressions for working with collections.                    |
+| Reduction Operations                        | Supports reduction operations like sum, min, max, etc., for common tasks.                                |
+| Pipeline Optimization                      | Optimizes pipelines automatically, improving performance by combining consecutive operations.           |
+| Interoperability with Existing Code       | Seamlessly integrates with existing Java collections, making it easy to work with familiar data structures. |
+| Encourages Immutability                  | Follows the functional programming principle of immutability, leaving original data unchanged.          |
+
+
+
+
+
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+*Italic Text*
+**Bold Text**
+~~Strikethrough~~
+
+- Unordered List Item 1
+  - Nested Item 1
+  - Nested Item 2
+- Unordered List Item 2
+
+1. Ordered List Item 1
+   1. Sub-item A
+   2. Sub-item B
+2. Ordered List Item 2
+
+[Link Text](https://www.example.com "Link Title")
+
+![Alt Text](image_url "Image Title")
+
+```python
+def hello():
+    print("Hello, world!")
+```
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media 
