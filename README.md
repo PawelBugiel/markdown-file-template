@@ -10,7 +10,7 @@
 >*Udemy course title :*  [**Learn Functional Programming in Java with Lambdas and Streams** ](https://www.udemy.com/course/functional-programming-with-java "Nice content for a start.")  
 *created by* **in28minutes**
 ___
-#### two
+#### two [one](#one) [three](#three) [four](#four)
 - there are two coding approaches in Java : an imperative and a declarative
 - the declarative approach changes the way the Java developers think about coding itself
 - on the one hand, functional programming is even more abstract, and on the other hand, in appropriate scenarios, it can provide much more readable, less verbose code.
@@ -19,7 +19,7 @@ ___
 ___
 
 
-#### three
+#### three              [one](#one) [two](#two) [four](#four)
 | No. | Title                                                                                                 | Timestamp            |
 |-----|-------------------------------------------------------------------------------------------------------|----------------------|
 | 1   | Initial commit                                                                                        | 1/23/2024 10:03 PM  |
@@ -53,7 +53,7 @@ AI mainly helped me with :
 - extracting needed content from my source code.
 ~~~
 
-#### four
+#### four         [one](#one) [two](#two) [three](#three)
 ___
 | Advantage                                     | Description                                                                                           |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------|
