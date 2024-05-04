@@ -28,24 +28,24 @@ ___
 ___
 ## 2 two
 
-*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting-examples)*
+*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting)*
 
 ... text ... text ... text ...
 
 ___
 
 ## 3 three
-*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting-examples)*
+*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting)*
 ___
 
 ## 4 four
-*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting-examples)*
+*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting)*
 
 ...Content ...
 ___
 
 ## 5 five formatting
-*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting-examples)*
+*list of contents : [1 one](#1-one) || [2 two](#2-two) || [3 three](#3-three) || [4 four](#4-four) || [5 five formatting examples](#5-five-formatting)*
 
 
 ### Blockquotes
