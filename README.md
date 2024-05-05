@@ -88,23 +88,20 @@ public class MainApp {
 [Link Text](https://www.example.com "Link Title")
 
 ### Image
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java.png?raw=true" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Alt Text" width="22%" height="22%">
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring.png?raw=true" alt="Alt Text" width="22%" height="22%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcd5QTFpkeKL50NMj8SL0xLF1XdfSvEOxy6okdeNeCuQ&s" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">  <br>
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/openapi_swagger_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="Alt Text" width="22%" height="22%">
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/open_weather.png?raw=true" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/open_weather_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%"> <br>
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/junit.png?raw=true" alt="Alt Text" width="22%" height="22%">
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mockito.png?raw=true" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mockito.png?raw=true" alt="Alt Text" width="22%" height="22%"> <br>
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/gitbash.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://img1.xenby.com/272/000000.png" alt="Alt Text" width="22%" height="22%">
-<img src="https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/01/intellij-519-d4ff21c469.png?fit=519%2C140&ssl=1" alt="Alt Text" width="22%" height="22%">
+<img src="https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/01/intellij-519-d4ff21c469.png?fit=519%2C140&ssl=1" alt="Alt Text" width="22%" height="22%"> <br>
 <img src="https://about.codecov.io/wp-content/uploads/2020/11/jacoco-logo.png" alt="Alt Text" width="22%" height="22%">
 <img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" alt="Alt Text" width="22%" height="22%">
-<img src="" alt="Alt Text" width="22%" height="22%">
-<img src="" alt="Alt Text" width="22%" height="22%">
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/pngwing.com.png?raw=true" alt="Alt Text" width="22%" height="22%">
 
 
 
