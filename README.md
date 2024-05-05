@@ -99,8 +99,8 @@ public class MainApp {
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mockito_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%"> <br>
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/gitbash_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/lombok_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
-<img src="https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/01/intellij-519-d4ff21c469.png?fit=519%2C140&ssl=1" alt="Alt Text" width="22%" height="22%"> <br>
-<img src="https://about.codecov.io/wp-content/uploads/2020/11/jacoco-logo.png" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/intellij_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%"> <br>
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/jcoco_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/maven_b_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 
 
