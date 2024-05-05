@@ -93,7 +93,7 @@ public class MainApp {
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcd5QTFpkeKL50NMj8SL0xLF1XdfSvEOxy6okdeNeCuQ&s" alt="Alt Text" width="22%" height="22%">
 <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="Alt Text" width="22%" height="22%">
-<img src="https://scontent.fpoz4-1.fna.fbcdn.net/v/t39.30808-6/430465397_890654353066817_8230256356957334853_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5liP-tXLH3cQ7kNvgHEn_28&_nc_ht=scontent.fpoz4-1.fna&oh=00_AfDe6ljNwYUlsyTodOmbk0KsjyOMJhlo2l7Jno85PDElVQ&oe=663C5EEE" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/open_weather.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/junit.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mockito.png?raw=true" alt="Alt Text" width="22%" height="22%">
