@@ -89,7 +89,7 @@ public class MainApp {
 
 ### Image
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
-<img src="https://hibernate.org/images/hibernate-logo.svg" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/hibernate_6x3.png?raw=true" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">  <br>
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/openapi_swagger_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://cdn.cookielaw.org/logos/70564414-548a-4286-8ad7-04d95b172a08/e26443c0-68d1-47c8-b8fc-9bc765da2e95/3a159462-db70-43cf-a27d-f602a6baed44/pm-logo-horiz.png" alt="Alt Text" width="22%" height="22%">
