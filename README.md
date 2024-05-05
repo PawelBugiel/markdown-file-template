@@ -97,7 +97,7 @@ public class MainApp {
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/junit.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mockito.png?raw=true" alt="Alt Text" width="22%" height="22%">
-<img src="https://www.gitkraken.com/wp-content/uploads/2021/07/GitBashLogo.jpg" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/gitbash.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://img1.xenby.com/272/000000.png" alt="Alt Text" width="22%" height="22%">
 <img src="https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/01/intellij-519-d4ff21c469.png?fit=519%2C140&ssl=1" alt="Alt Text" width="22%" height="22%">
 <img src="https://about.codecov.io/wp-content/uploads/2020/11/jacoco-logo.png" alt="Alt Text" width="22%" height="22%">
