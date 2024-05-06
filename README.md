@@ -88,7 +88,7 @@ public class MainApp {
 [Link Text](https://www.example.com "Link Title")
 
 ### Image
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java_6x3.png?raw=true" alt="Java " width="22%" height="100%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/hibernate_6x3.png?raw=true" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">  <br>
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/openapi_swagger_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
@@ -102,6 +102,7 @@ public class MainApp {
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/intellij_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%"> <br>
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/jcoco_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/maven_b_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/h2_6x3.png?raw=true" alt="Alt Text" width="22%" height="22%">
 
 
 
